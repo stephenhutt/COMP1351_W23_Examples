@@ -1,3 +1,9 @@
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
+#Variable Definition
 var1= "Hello"
 var2= "world"
 

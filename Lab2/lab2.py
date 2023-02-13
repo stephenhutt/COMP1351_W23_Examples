@@ -1,4 +1,11 @@
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
 import dudraw
+
+
 print("Lab2 Example")
 #Create our canvas
 dudraw.set_canvas_size(400,400)

@@ -1,4 +1,8 @@
-
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
 
 startIndex = 1
 stopIndex = 5

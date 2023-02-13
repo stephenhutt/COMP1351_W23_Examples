@@ -1,3 +1,8 @@
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
 user_number = int(input("Pick A Number:"))
 
 if(user_number % 2 ==1):

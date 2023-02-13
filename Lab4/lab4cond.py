@@ -1,3 +1,8 @@
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
 #Get input and convert to float - will error if a float is not givenß
 num = int(input("How many red balloons would you like: "))
 

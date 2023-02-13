@@ -1,5 +1,10 @@
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
 
-
+#Print Double new line
 print("\n")
 
 

@@ -1,4 +1,8 @@
-"""TODO: Add Header Block"""
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
 
 import dudraw
 

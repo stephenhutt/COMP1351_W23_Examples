@@ -1,4 +1,8 @@
-
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
 #is a number divisible by 2 and 3?
 
 number = 9

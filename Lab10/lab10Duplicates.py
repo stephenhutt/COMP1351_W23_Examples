@@ -1,4 +1,8 @@
-
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
 
 def findDuplicates(a, b, c):
     """test if there are any duplicates in three parameters

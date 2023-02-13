@@ -1,3 +1,9 @@
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
+
 def findfactorial(num):
     """Calculate the factorial of a number
     param: int num: variable to check

@@ -1,3 +1,9 @@
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
+
 import dudraw
 
 card_values = ["Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King"]

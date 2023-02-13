@@ -1,3 +1,9 @@
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
+
 import dudraw
 
 def drawCircle(r,g,b,centre_x, centre_y, radius):

@@ -1,6 +1,13 @@
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
+
 x = False
 score = 0
 import random
+#this will run forever if you change x
 while x:
     print("Eternal")
 

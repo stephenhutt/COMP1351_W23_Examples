@@ -1,3 +1,9 @@
+
+"""
+Author: Stephen Hutt
+Course: 1351
+Content: In Class Demo
+"""
 import random
 
 for i in range(10):
